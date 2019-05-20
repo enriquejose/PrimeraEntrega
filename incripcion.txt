@@ -1,0 +1,4 @@
+Datos el estudiante - Cedula: 12435940
+- Nombre: kike
+Datos del curso
+ - Id:2 - Curso:Python - Valor: 12000
